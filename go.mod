@@ -9,5 +9,5 @@ require (
 	github.com/james4k/rcon v0.0.0-20120923215419-8fbb8268b60a
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/viper v1.4.0
-	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4
+	golang.org/x/crypto v0.17.0
 )
